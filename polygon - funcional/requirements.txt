@@ -1,0 +1,7 @@
+fastkml==0.12
+geopandas==0.14.1
+matplotlib==3.8.2
+cartopy==0.22.0
+shapely==2.0.2
+folium==0.15.1
+gmplot==1.4.0 
